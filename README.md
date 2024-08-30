@@ -21,7 +21,6 @@ Welcome to the Snake Game! In this fun and simple game, you control a snake that
 ## Requirements
 - **Python 3.x:** You need Python installed on your computer.
 - **PyGame Library:** Install PyGame by typing this in the terminal:
-  ```bash
 
  1- On your terminal Visual Code Studio type: cd path/to/your/folder
 
