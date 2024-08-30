@@ -22,9 +22,13 @@ Welcome to the Snake Game! In this fun and simple game, you control a snake that
 - **Python 3.x:** You need Python installed on your computer.
 - **PyGame Library:** Install PyGame by typing this in the terminal:
   ```bash
-  pip install pygame
 
-  clone the repository github with 'git clone git@github.com:NurMustafaM/Tutor-challange.git'
+ 1- On your terminal Visual Code Studio type: cd path/to/your/folder
 
-  
-  and then run 'cd tutor-challange'
+ 2- clone the repository github with 'git clone git@github.com:NurMustafaM/Tutor-challange.git'
+
+ 2.1 - pip install pygame
+
+ 3 - and then run 'cd tutor-challange'
+
+ 4 -  Open your terminal, type `python snake.py`, and press Enter.
